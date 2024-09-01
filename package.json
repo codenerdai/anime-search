@@ -1,10 +1,10 @@
 {
-  //"homepage": "https://codenerdai.github.io/anime-search",
-  "homepage": "./",
+  
   "name": "anime-search",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://codenerdai.github.io/anime-search",
   "scripts": {
     "dev": "vite",
     "predeploy":"npm run build",
