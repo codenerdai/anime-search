@@ -1,5 +1,6 @@
 {
-  "homepage": "https://codenerdai.github.io/anime-search",
+  //"homepage": "https://codenerdai.github.io/anime-search",
+  "homepage": "./",
   "name": "anime-search",
   "private": true,
   "version": "0.0.0",
